@@ -30,7 +30,7 @@
     "@episodehunter/types": "github:episodehunter/types",
     "@types/aws-lambda": "8.10.28",
     "@types/graphql": "14.2.2",
-    "@types/jest": "24.0.15",
+    "@types/jest": "24.0.18",
     "@types/node": "12.6.2",
     "@types/pg": "7.4.14",
     "aws-lambda": "0.1.2",
