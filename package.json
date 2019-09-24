@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@episodehunter/kingsguard": "^4.1.0",
+    "@episodehunter/kingsguard": "^5.0.0",
     "@episodehunter/logger": "^4.1.2",
     "apollo-server-lambda": "^2.6.9",
     "dataloader": "^1.4.0",
